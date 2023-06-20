@@ -11,3 +11,9 @@ python 3.10 required
 
 Mac Only, but probably works on Linux
 
+-> Audio file must be called music.mp4
+-> Other files must be numerically ordered  file1.mp4, file2.mp4 etc.
+-> Sort order is natural file1, file2 etc not file1, file10
+
+Required ffmpeg to be installed via brew
+
